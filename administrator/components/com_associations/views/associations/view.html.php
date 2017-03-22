@@ -227,6 +227,6 @@ class AssociationsViewAssociations extends JViewLegacy
 		/*
 		 * @todo Help page
 		*/
-		JToolbarHelper::help('JGLOBAL_HELP');
+		JToolbarHelper::help('JHELP_COMPONENTS_ASSOCIATIONS');
 	}
 }
